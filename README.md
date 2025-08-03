@@ -27,4 +27,8 @@ Here it's my Personal Info.
 I'm always open to collaboration, learning, or contributing to exciting projects.  
 Feel free to connect or reach out!
 
+## 📄 My CV
+
+You can view my CV [here](https://your-username.github.io/Samar-Rashid/samar.html).
+
 
