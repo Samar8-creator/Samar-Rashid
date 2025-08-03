@@ -1,6 +1,6 @@
 # Samar-Rashid
 Here it's my Personal Info.
-# 👋 Hi there! I'm [Samar Rashid]
+
 
 🎓 I’m a 6th semester Software Engineering student at **GIFT University, Gujranwala**.  
 💻 I'm passionate about building interactive and responsive front-end web and mobile applications.  
