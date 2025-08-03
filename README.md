@@ -29,6 +29,6 @@ Feel free to connect or reach out!
 
 ## 📄 My CV
 
-You can view my CV [here](https://your-username.github.io/Samar-Rashid/samar.html).
+You can view my CV [here](https://Samar8-creator.github.io/Samar-Rashid/samar.html).
 
 
