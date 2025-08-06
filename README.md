@@ -22,10 +22,24 @@ Here it's my Personal Info.
 - Backend integration & full-stack development
 - Advanced React patterns and performance optimization
 - Real-world UI/UX design principles
+## This is my Database Project
+# Order Management System
 
-## 📫 Let's Connect!
-I'm always open to collaboration, learning, or contributing to exciting projects.  
-Feel free to connect or reach out!
+This is a simple database project for managing customer orders, products, and inventory.
+
+### Features
+- Add/Edit/Delete orders
+- Manage customers and products
+- Generate reports
+
+### Technologies Used
+- MySQL
+- SQL Queries
+- ER Diagrams
+
+### Author
+Samar8-creator
+
 
 ## 📄 My CV
 
