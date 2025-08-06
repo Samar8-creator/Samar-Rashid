@@ -41,6 +41,10 @@ This is a simple database project for managing customer orders, products, and in
 Samar8-creator
 
 ➡️ [Click here to view the project repository](https://github.com/Samar8-creator/orderManagementSystem)
+## My Object-Oriented Programming Project
+
+➡️ [Click here to view the project repository](https://github.com/Samar8-creator/School-Management-System)
+
 
 ## 📄 My CV
 
