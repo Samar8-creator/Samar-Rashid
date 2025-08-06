@@ -40,6 +40,7 @@ This is a simple database project for managing customer orders, products, and in
 ### Author
 Samar8-creator
 
+➡️ [Click here to view the project repository](https://github.com/Samar8-creator/orderManagementSystem)
 
 ## 📄 My CV
 
